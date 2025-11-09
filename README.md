@@ -1,4 +1,4 @@
-Bank Management System
+****Bank Management System****
 
 A simple Java Swing desktop application that simulates basic ATM / bank operations — deposit, withdrawal, balance enquiry, transaction history — built as a learning / demo project.
 
