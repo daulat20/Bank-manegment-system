@@ -30,24 +30,7 @@ JDBC for database connectivity
 
 MySQL / MariaDB (or any relational DB) for storing transactions
 
-**Repo structure (typical)**
-
-Bank-manegment-system/
-├─ src/
-│  └─ Bank/
-│     ├─ Main_Class.java
-│     ├─ DbConnection.java
-│     ├─ Withdrawl.java
-│     ├─ BaleneceEnquery.java
-│     ├─ Deposit.java
-│     └─ ...other GUI classes...
-├─ resources/
-│  └─ atm2.png
-├─ README.md
-└─ .gitignore
-
-
-Note: class names in your code include Withdrawl and BaleneceEnquery — be consistent with spellings across UI/DB strings to avoid logic bugs.
+#Note: class names in your code include Withdrawl and BaleneceEnquery — be consistent with spellings across UI/DB strings to avoid logic bugs.
 
 **Common issues & fixes**
 1. Balance displays incorrect values
